@@ -23,6 +23,7 @@ Native for Web" to use the same API for UI components. They run on iOS, Android 
 - [Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-react-native-web) - The React Framework
 - [React Native for Web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [Solito](https://github.com/nandorojo/solito) - React Native + Next.js, unified
+- [Universal Medusa](https://github.com/bidah/universal-medusa) - Multi platform e-commerce development using React Native + Next.js + Medusa.js
 
 ## Libraries
 
