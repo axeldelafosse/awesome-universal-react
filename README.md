@@ -1,4 +1,4 @@
-# awesome-universal-react [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Universal React [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A collection of awesome universal React and React Native frameworks, libraries, design systems, apps and resources.
 
