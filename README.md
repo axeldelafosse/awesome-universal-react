@@ -13,6 +13,7 @@ Native for Web" to use the same API for UI components. They run on iOS, Android 
 - [Design Systems](#design-systems)
 - [Apps](#apps)
 - [Resources](#resources)
+- [Starter Kits](#starter-kits)
 - [Contributing](#contributing)
 - [License](#license)
 -->
@@ -23,7 +24,6 @@ Native for Web" to use the same API for UI components. They run on iOS, Android 
 - [Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-react-native-web) - The React Framework
 - [React Native for Web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [Solito](https://github.com/nandorojo/solito) - React Native + Next.js, unified
-- [Universal Medusa](https://github.com/bidah/universal-medusa) - Multi platform e-commerce development using React Native + Next.js + Medusa.js
 
 ## Libraries
 
@@ -72,9 +72,8 @@ Native for Web" to use the same API for UI components. They run on iOS, Android 
 - [How to Build a Universal Design System](https://www.youtube.com/watch?v=sy4bRqMrGjc) or [How to Build a Universal Design System](https://www.youtube.com/watch?v=CDl3EH3vUHA) - Axel Delafosse
 - [Twitter Lite, React Native, and Progressive Web Apps](https://www.youtube.com/watch?v=tFFn39lLO-U) - Nicolas Gallagher
 
-### Getting Started Quickly
+### Guides
 
-- [Solito + NativeWind Example Monorepo](https://github.com/nandorojo/solito/tree/master/example-monorepos/with-tailwind) - Get started with Expo and Next.js + Solito and NativeWind
 - [Use Next.js with Expo for Web](https://docs.expo.dev/guides/using-nextjs) - Get started with Expo and Next.js
 - [Tamagui Next.js Guide](https://tamagui.dev/docs/guides/next-js) - Get started with Tamagui and Next.js
 
@@ -82,6 +81,13 @@ Native for Web" to use the same API for UI components. They run on iOS, Android 
 
 - [Native for React Developers - a webinar by Lydia Hallie and Evan Bacon](https://www.youtube.com/watch?v=_wDCFCnxMrU) - Learn about the different APIs between React DOM and React Native
 - [Layout with Flexbox](https://reactnative.dev/docs/flexbox) - Learn about how Flexbox is used in React Native
+
+## Starter Kits
+
+- [Solito + NativeWind Example Monorepo](https://github.com/nandorojo/solito/tree/master/example-monorepos/with-tailwind) - Get started with Expo and Next.js + Solito and NativeWind
+- [Universal Medusa](https://github.com/bidah/universal-medusa) - Multi platform e-commerce development using React Native + Next.js + Medusa.js
+- [T4 Stack](https://github.com/timothymiller/t4-app) - Interactive CLI to start a full-stack, typesafe, universal Expo & Next.js app on Cloudflare's edge platform
+- [Tamagui Takeout](https://tamagui.dev/takeout) - Takeout is a template repo with a GitHub bot that lets us send PRs easily thanks to a pluggable, well-isolated architecture
 
 ## Contributing
 
