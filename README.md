@@ -71,7 +71,7 @@ Native for Web" to use the same API for UI components. They run on iOS, Android 
 - [Zero to $10 Million with React Native + Next.js](https://www.youtube.com/watch?v=0lnbdRweJtA) - Fernando Rojo
 - [How to Build a Universal Design System](https://www.youtube.com/watch?v=sy4bRqMrGjc) or [How to Build a Universal Design System](https://www.youtube.com/watch?v=CDl3EH3vUHA) - Axel Delafosse
 - [Twitter Lite, React Native, and Progressive Web Apps](https://www.youtube.com/watch?v=tFFn39lLO-U) - Nicolas Gallagher
-- [Building a “Universal” CSS-in-JS library by Sanket Sahu](https://www.youtube.com/watch?v=EFTCeK8aXTU&list=PLzIvgYYDQbH5D8y_M3bCz68qnsAZKgntN&index=32) - Sanket Sahu
+- [Building a “Universal” CSS-in-JS library](https://www.youtube.com/watch?v=EFTCeK8aXTU&list=PLzIvgYYDQbH5D8y_M3bCz68qnsAZKgntN&index=32) - Sanket Sahu
 
 ### Guides
 
