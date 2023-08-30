@@ -72,11 +72,13 @@ Native for Web" to use the same API for UI components. They run on iOS, Android 
 - [How to Build a Universal Design System](https://www.youtube.com/watch?v=sy4bRqMrGjc) or [How to Build a Universal Design System](https://www.youtube.com/watch?v=CDl3EH3vUHA) - Axel Delafosse
 - [Twitter Lite, React Native, and Progressive Web Apps](https://www.youtube.com/watch?v=tFFn39lLO-U) - Nicolas Gallagher
 - [Building a “Universal” CSS-in-JS library](https://www.youtube.com/watch?v=EFTCeK8aXTU&list=PLzIvgYYDQbH5D8y_M3bCz68qnsAZKgntN&index=32) - Sanket Sahu
+- ['Move fast and build things', with Zod, Expo & Next.js](https://www.youtube.com/live/njhgS-erQbo?si=qM1kygQjQSFL-GiJ&t=13) - Thorr Stevens (@codinsonn.dev)
 
 ### Guides
 
 - [Use Next.js with Expo for Web](https://docs.expo.dev/guides/using-nextjs) - Get started with Expo and Next.js
 - [Tamagui Next.js Guide](https://tamagui.dev/docs/guides/next-js) - Get started with Tamagui and Next.js
+- [How to choose cross-platform tech](https://dev.to/codinsonn/why-use-react-native-over-flutter-a-recap-57b0) - When Expo + Next.js makes sense over other strategies
 
 ### Learning more about React Native as a Web Developer
 
@@ -89,6 +91,7 @@ Native for Web" to use the same API for UI components. They run on iOS, Android 
 - [Universal Medusa](https://github.com/bidah/universal-medusa) - Multi platform e-commerce development using React Native + Next.js + Medusa.js
 - [T4 Stack](https://github.com/timothymiller/t4-app) - Interactive CLI to start a full-stack, typesafe, universal Expo & Next.js app on Cloudflare's edge platform
 - [Tamagui Takeout](https://tamagui.dev/takeout) - Takeout is a template repo with a GitHub bot that lets us send PRs easily thanks to a pluggable, well-isolated architecture
+- [Aetherspace](https://github.com/Aetherspace/green-stack-starter-demo#readme) - Expo + Next.js template repo + Zod for Single Sources of Truth, automated Storybook Docs and write-once data resolvers for REST & GraphQL
 
 ## Contributing
 
