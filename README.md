@@ -58,6 +58,7 @@ Native for Web" to use the same API for UI components. They run on iOS, Android 
 
 ## Apps
 
+- [Bluesky](https://github.com/bluesky-social/social-app) - Open-source
 - [Showtime](https://github.com/showtime-xyz/showtime-frontend) - Open-source
 - [Beatgig](https://beatgig.com) - Closed-source
 - [Diversified](https://www.diversified.fi) - Closed-source
@@ -72,7 +73,7 @@ Native for Web" to use the same API for UI components. They run on iOS, Android 
 - [How to Build a Universal Design System](https://www.youtube.com/watch?v=sy4bRqMrGjc) or [How to Build a Universal Design System](https://www.youtube.com/watch?v=CDl3EH3vUHA) - Axel Delafosse
 - [Twitter Lite, React Native, and Progressive Web Apps](https://www.youtube.com/watch?v=tFFn39lLO-U) - Nicolas Gallagher
 - [Building a “Universal” CSS-in-JS library](https://www.youtube.com/watch?v=EFTCeK8aXTU&list=PLzIvgYYDQbH5D8y_M3bCz68qnsAZKgntN&index=32) - Sanket Sahu
-- ['Move fast and build things', with Zod, Expo & Next.js](https://www.youtube.com/live/njhgS-erQbo?si=qM1kygQjQSFL-GiJ&t=13) - Thorr Stevens (@codinsonn.dev)
+- ['Move fast and build things', with Zod, Expo & Next.js](https://www.youtube.com/live/njhgS-erQbo?si=qM1kygQjQSFL-GiJ&t=13) - Thorr Stevens
 
 ### Guides
 
